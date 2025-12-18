@@ -1,0 +1,2 @@
+BOOTSTRAP_PASSWORD = '123QWEasdzxc'
+

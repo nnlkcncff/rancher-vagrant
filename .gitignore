@@ -1,0 +1,7 @@
+.vagrant
+run/**
+!run/repo-ssh-fleet/
+!run/repo-ssh-fleet/**
+run/repo-ssh-fleet/ssh*
+secrets-prod.rb
+

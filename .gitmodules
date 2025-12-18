@@ -1,0 +1,3 @@
+[submodule "run/repo-ssh-fleet/fleet-configuration"]
+	path = run/repo-ssh-fleet/fleet-configuration
+	url = https://github.com/nnlkcncff/fleet-configuration.git
